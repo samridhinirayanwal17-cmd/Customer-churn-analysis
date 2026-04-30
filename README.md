@@ -1,4 +1,4 @@
-<img width="1344" height="749" alt="Screenshot 2026-04-19 191737" src="https://github.com/user-attachments/assets/633c0f2c-10fb-416c-9344-75dc16764d7d" />
+![Customer Churn Dashboard](Dashboard Screenshot)
 # Customer-churn-analysis-
 ## 📌 Project Title
 End-to-End Customer Churn Analysis using Excel, SQL and Power BI
