@@ -1,4 +1,5 @@
-![Customer Churn Dashboard](customer_churn_dashboard)
+![Customer Churn Dashboard](Customer Churn Analysis Dashboard.png
+)
 # Customer-churn-analysis-
 ## 📌 Project Title
 End-to-End Customer Churn Analysis using Excel, SQL and Power BI
