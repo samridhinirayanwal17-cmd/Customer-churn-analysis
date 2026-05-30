@@ -1,4 +1,4 @@
-![Customer Churn Dashboard](Customer Churn Analysis Dashboard.png)
+![Customer Churn Dashboard](Customer%20Churn%20Analysis%20Dashboard.png)
 
 # Customer-churn-analysis-
 ## 📌 Project Title
